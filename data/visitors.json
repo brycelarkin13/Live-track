@@ -1,0 +1,25 @@
+{
+    "visitors": [
+      {
+        "id": "0",
+        "name": "Alan",
+        "carrier": "Hummer",
+        "tractorNumber": "2005",
+        "trailerNumber": "52876"
+      },
+      {
+        "id": "1",
+        "name": "Terry",
+        "carrier": "RTI",
+        "tractorNumber": "1943",
+        "trailerNumber": "241752"
+      },
+      {
+        "id": "2",
+        "name": "Erica",
+        "carrier": "Ruan",
+        "tractorNumber": "1777",
+        "trailerNumber": "800133"
+      }
+    ]
+  }
